@@ -1,8 +1,7 @@
 # MegaUploaderbot
 
-This is the source code of [MegaUploaderbot](http://t.me/LinktoMegaUploaderBot).
-And the developer of this bot is [AJTimePyro](https://t.me/AJTimePyro),
-and his [Telegram Channel](https://t.me/AJBotVerse), for checking his all projects join the channel.
+This is the source code of [MegaUploaderbot](http://t.me/LinktoMegaUploaderBot) (Not Exist anymore).
+And the developer of this bot is [AJTimePyro](https://t.me/AJTimePyro).
 
 You can use this source code in any way but you need to **give credit** to its
 Developer AJTimePyro.
